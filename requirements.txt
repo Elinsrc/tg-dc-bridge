@@ -1,0 +1,11 @@
+hydrogram @ https://github.com/hydrogram/hydrogram/archive/dev.zip
+tgcrypto
+discord.py
+aiohttp
+aiosqlite
+loguru
+uvloop; sys_platform != "win32"
+PyNaCl
+davey
+rlottie-python
+Pillow
